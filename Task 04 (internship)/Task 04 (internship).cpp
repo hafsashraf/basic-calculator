@@ -62,6 +62,6 @@ int main() {
 
     } while (again == 'y' || again == 'Y');
 
-    cout << "Calculator exited. Goodbye!" << endl;
+    cout << "Calculator exited. Goodbye!!" << endl;
     return 0;
 }
